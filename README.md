@@ -27,6 +27,9 @@ The dashboard provides insights into:
 - Data Visualization
 - Business Analysis
 ## Key Objective
-The objective is to identify operational bottlenecks and provide data-driven insights that can help improve IT support efficiency, resource utilization, resolution time, and user satisfaction.
+- Identify operational bottlenecks in IT support processes.
+- Improve resolution time by analyzing ticket and category-level trends.
+- Optimize resource utilization through data-driven insights.
+- Enhance user satisfaction by identifying factors affecting service quality.
 ## Dashboard Preview
 ![IT Support Performance Dashboard](IT_Support_Dashboard.PNG)
