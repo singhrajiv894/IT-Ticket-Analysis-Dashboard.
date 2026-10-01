@@ -1,4 +1,4 @@
-# IT Ticket Analysis Dashboard
+# IT Ticket Analysis Dashboard | Excel
 ## Project Overview
 This project analyzes 97,498 IT support tickets to evaluate support performance, resolution time, ticket categories, severity levels, and user satisfaction.
 An interactive Excel dashboard was developed to transform raw ticket data into meaningful insights and support data-driven decision-making.
