@@ -33,3 +33,6 @@ The dashboard provides insights into:
 - Enhance user satisfaction by identifying factors affecting service quality.
 ## Dashboard Preview
 ![IT Support Performance Dashboard](IT_Support_Dashboard.PNG)
+## 👤 Author
+*Rajiv Kumar | Data Analyst | SQL | Excel | Power BI | Python*
+🔗 [LinkedIn](https://www.linkedin.com/in/rajiv-kumar-da/)
